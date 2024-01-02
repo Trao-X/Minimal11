@@ -1,3 +1,6 @@
+# How to Install?
+Installing is simple, firstly you have to get the file from Google Drive, since I can't upload it to GitHub. Then, you just set it up.
+
 ## What is Minimal11?
 Minimal11 is a light version of Windows 11 with slight modifications in order to remove excessive components that come with the default Windows 11 install. This version does not remove the Windows 11 requirements though. This custom ISO image also disabled all the telemetry and data collection added in Windows 11.
 
